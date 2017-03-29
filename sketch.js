@@ -1,5 +1,5 @@
 var numbers = [15, 22, 48, 37];
-var habits = ["choice", "voice", "hustle", "grit", "growth", "optimism", "consideraation", "music is life"];
+var habits = ["muse", "lyric", "music", "generic", "aries", "optimistic", "pessimist", "music is life"];
 var j = 0;
 
 function setup(){

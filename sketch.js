@@ -8,10 +8,11 @@ function setup(){
 }
 
 function draw(){
-    background(202, 132, 232);
+    background(200, 135, 230);
     
     for(var i = 0; i < 4; i++){
-        ellipse((i+1)*100,200,numbers[i],numbers[i]);
+        
+        rect((i+1)*100,200,numbers[i],numbers[i]);
     }
     
     fill(255);
